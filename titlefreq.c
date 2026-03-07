@@ -20,6 +20,16 @@ using the python program html-to-markdown
 
 */
 
+/*
+
+I need to convert naïveté to naivete
+
+I used the command:
+iconv -f UTF-8 -t ASCII//TRANSLIT -o out.md in.md
+to convert files to ascii
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
