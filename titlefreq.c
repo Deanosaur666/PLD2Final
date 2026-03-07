@@ -69,6 +69,8 @@ We don't care. We only count title cases and total words.
 // could this character be part of a word?
 #define IN_WORD(c) (ALPHANUMERIC(c) || c == '\'' || c == '.')
 
+#define UPPERCASE(c) (c >= 'A' && c <= 'Z')
+
 /*
 
 The manager loads the file, and reads a fixed number of characters N
@@ -76,73 +78,70 @@ every worker gets N characters to check
 
 */
 
-typedef enum WORD_FLAGS {
-    UNDEFINED = 0,
-    NOT_WORD = 1,
-    
-    // these two flags are mutually exclusive
-    // one and only one must be set in any word
-    START_CAP = 1 << 1,
-    START_LOWER = 1 << 2,
-
-    // both are used to check for acronyms
-    DOUBLE_CAP = 1 << 3,
-    END_CAP = 1 << 4,
-} WORD_FLAGS;
-
-typedef struct Word {
-    int flags;
-    int periodcount; // how many periods, for detecting acronyms
-} Word;
-
-/*
-
-What do we do if a worker starts or ends partway into a word?
-We don't want to accidentally count extra words
-
-*/
-
-/*
-
-Each worker returns:
-* word count
-* title case word count
-* start word (Word struct)
-* end word (Word struct)
-
-start word and end word exist so we can check for words split
-on section boundaries, so we don't overcount words
-
-if a worker starts or ends in a word, they don't add it to their word count
-the manager must decide if it's a whole word or a split word
-
-start and end words are stored in a queue or queues
-we record start and end words for sections sequentially
-
-once we have the end word, E, for section n, and the start word (S)
-for section n+1, we analyze them
-
-"having" them means neither is left undefined (at 0)
-
-if both are not words, we don't worry about it, and add nothing to any word count
-if both are words, it's one word, so we add one to word count
-    we then see if it's a valid title-case word:
-    E must start cap
-    E and S must not have double capitals
-    E period count + S period count < 2
-    if E ends cap, S must not start cap
-
-if only one of them is a word, we ignore the other, add one to word count
-    check the single word to see if it's a valid title-case word:
-    it must start cap
-    it must not have double capitols
-    period count must be < 2
-
-*/
-
 #define BUFF_MAX 1024
 
+void readSection(char * text, int * wordCount, int * titleCount, int * acronymCount) {
+
+    bool inWord = false;
+    bool startCap = false;
+    int periodCount;
+
+    bool acronym = false;
+
+    int i = 0;
+    int letter = 0;
+
+    while(i < BUFF_MAX) {
+        char c = text[i];
+        // first letter of word
+        if(!inWord && START_WORD(c)) {
+            inWord = true;
+            letter = 0;
+            periodCount = 0;
+            acronym = false;
+            if(UPPERCASE(c))
+                startCap = true;
+        }
+        // continue the word
+        else if(inWord && IN_WORD(c)) {
+            letter ++;
+            if(c == '.') {
+                if(periodCount >= 2)
+                    acronym = true;
+                else
+                    periodCount ++;
+            }
+            // if the second letter is uppercase
+            else if(UPPERCASE(c) && letter == 1)
+                acronym = true;
+        }
+        // end of word
+        else if(inWord) {
+            inWord = false;
+            if(acronym)
+                (*acronymCount) ++;
+            else {
+                (*wordCount) ++;
+                if(startCap)
+                    (*titleCount) ++;
+            }
+            startCap = false;
+        }
+
+        // break at null
+        if(c == '\0')
+            break;
+        i ++;
+    }
+}
+
 int main (int argc, char *argv[]) {
+
+    char buffer[BUFF_MAX];
+    int wordCount = 0;
+    int titleCount = 0;
+    int acronymCount = 0;
+
     // argument should be the file
     FILE *file = fopen("Frankenstein.md", "r");
 
@@ -150,8 +149,6 @@ int main (int argc, char *argv[]) {
         perror("Error opening file");
         return 1;
     }
-
-    char buffer[BUFF_MAX];
 
     // Reading lines until the end of the file
     int read = fread(buffer, sizeof(char), BUFF_MAX - 1, file);
@@ -167,12 +164,16 @@ int main (int argc, char *argv[]) {
             if(read <= 0)
                 return 0;
         }
+        readSection(buffer, &wordCount, &titleCount, &acronymCount);
+
         printf("%s", buffer);
         printf("|%d|", BUFF_MAX - read);
         read = fread(buffer, sizeof(char), BUFF_MAX, file);
     }
 
     fclose(file);
+
+    printf("\nWords: %d\nTitles: %d\nAcronyms: %d\n", wordCount, titleCount, acronymCount);
 
     return 0;
 }
