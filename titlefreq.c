@@ -18,15 +18,13 @@ These books were obtained from Project Gutenberg,
 downloaded as html files, and converted to markdown files
 using the python program html-to-markdown
 
-*/
+I converted words like naïveté to naivete,
+to make the reading process simpler
 
-/*
+To be more precise, I converted UTF-8 to ASCII
 
-I need to convert naïveté to naivete
-
-I used the command:
+I used this command to convert the files:
 iconv -f UTF-8 -t ASCII//TRANSLIT -o out.md in.md
-to convert files to ascii
 
 */
 
