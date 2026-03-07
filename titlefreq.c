@@ -139,3 +139,40 @@ if only one of them is a word, we ignore the other, add one to word count
     period count must be < 2
 
 */
+
+#define BUFF_MAX 1024
+
+int main (int argc, char *argv[]) {
+    // argument should be the file
+    FILE *file = fopen("Frankenstein.md", "r");
+
+    if (file == NULL) {
+        perror("Error opening file");
+        return 1;
+    }
+
+    char buffer[BUFF_MAX];
+
+    // Reading lines until the end of the file
+    int read = fread(buffer, sizeof(char), BUFF_MAX - 1, file);
+    while (read != 0) {
+        // null terminate it
+        buffer[read] = '\0';
+        // shorten the buffer if we end in the middle of a word
+        while(IN_WORD(buffer[read - 1])) {
+            buffer[read - 1] = '\0';
+            fseek(file, -1, SEEK_CUR);
+            read --;
+
+            if(read <= 0)
+                return 0;
+        }
+        printf("%s", buffer);
+        printf("|%d|", BUFF_MAX - read);
+        read = fread(buffer, sizeof(char), BUFF_MAX, file);
+    }
+
+    fclose(file);
+
+    return 0;
+}
