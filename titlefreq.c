@@ -193,7 +193,8 @@ int main (int argc, char *argv[]) {
     MPI_Request * send_requests = NULL;
 
     // for text and end
-    MPI_Request recv_requests[2];
+    MPI_Request text_recv_request;
+    MPI_Request end_recv_request;
 
 
     MPI_Init (&argc, &argv);
@@ -283,7 +284,7 @@ int main (int argc, char *argv[]) {
                     MPI_Test(&send_requests[i], &done, MPI_STATUS_IGNORE);
                     if(done) {
                         free(sentText[i]);
-                        sentText[i] = 0;
+                        sentText[i] = NULL;
 
                         printf("P%d done.\n", i);
                     }
@@ -301,6 +302,7 @@ int main (int argc, char *argv[]) {
                 end = 1;
                 for(int i = 1; i < p; i ++) {
                     MPI_Send(&end, 1, MPI_INT, i, TAG_END, MPI_COMM_WORLD);
+                    printf("Sent end to P%d.\n", i);
                 }
 
                 printf("END!\n");
@@ -312,14 +314,31 @@ int main (int argc, char *argv[]) {
     // worker
     else {
         while(true) {
-            MPI_Irecv(buffer, BUFF_MAX, MPI_CHAR, 0, TAG_TEXT, MPI_COMM_WORLD, &recv_requests[TAG_TEXT]);
-            MPI_Irecv(&end, 1, MPI_INT, 0, TAG_END, MPI_COMM_WORLD, &recv_requests[TAG_END]);
-            int type;
-            MPI_Waitany(2, recv_requests, &type, MPI_STATUS_IGNORE);
+            MPI_Irecv(buffer, BUFF_MAX, MPI_CHAR, 0, TAG_TEXT, MPI_COMM_WORLD, &text_recv_request);
+            MPI_Irecv(&end, 1, MPI_INT, 0, TAG_END, MPI_COMM_WORLD, &end_recv_request);
+
+            int done = 0;
+            int type = -1;
+            while(true) {
+                MPI_Test(&text_recv_request, &done, MPI_STATUS_IGNORE);
+                if(done) {
+                    type = TAG_TEXT;
+                    break;
+                }
+                MPI_Test(&end_recv_request, &done, MPI_STATUS_IGNORE);
+                if(done) {
+                    type = TAG_END;
+                    break;
+                }
+            }
+
+            printf("P%d recieved tag %d.\n", id, type);
             
             // break when program is finished
-            if(type == TAG_END && end)
+            if(type == TAG_END) {
+                printf("P%d shutting down.\n", id);
                 break;
+            }
             else if(type == TAG_TEXT) {
                 printf("P%d counting\n", id);
                 countSection(buffer, &wordCount, &titleCount, &acronymCount);
