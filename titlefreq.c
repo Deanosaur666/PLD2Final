@@ -80,7 +80,33 @@ every worker gets N characters to check
 
 #define BUFF_MAX 1024
 
-void readSection(char * text, int * wordCount, int * titleCount, int * acronymCount) {
+// manager function, used to get text from a file, into the buffer
+// this buffer will then be sent from the manager to a worker
+int readSection(char * buffer, FILE * file) {
+    int read = fread(buffer, sizeof(char), BUFF_MAX - 1, file);
+    if(read == 0)
+        return 0;
+    // null terminate it
+    buffer[read] = '\0';
+    // shorten the buffer if we end in the middle of a word
+    while(IN_WORD(buffer[read - 1])) {
+        buffer[read - 1] = '\0';
+        fseek(file, -1, SEEK_CUR);
+        read --;
+
+        if(read <= 0) {
+            printf("Error reading file (buffer too small).\n");
+            MPI_Abort(MPI_COMM_WORLD, 1);
+            fclose(file);
+            exit(1);
+            return -1;
+        }
+    }
+
+    return read;
+}
+
+void countSection(char * text, int * wordCount, int * titleCount, int * acronymCount) {
 
     bool inWord = false;
     bool startCap = false;
@@ -135,46 +161,204 @@ void readSection(char * text, int * wordCount, int * titleCount, int * acronymCo
     }
 }
 
-int main (int argc, char *argv[]) {
+#define TAG_TEXT 0
+#define TAG_END 1
 
-    char buffer[BUFF_MAX];
+int main (int argc, char *argv[]) {
+    int p; // number of processors
+    int id; // process ID number
+    double  elapsed_time;   /* Parallel execution time */
+    
+    FILE * file = NULL; // file to read
+    char buffer[BUFF_MAX]; // worker's buffer
+    int readChars = -1; // number of characters read from file
     int wordCount = 0;
     int titleCount = 0;
     int acronymCount = 0;
 
+    int global_wordCount = 0;
+    int global_titleCount = 0;
+    int global_acronymCount = 0;
+
+    int end = 0;
+
+    // stack for unsent buffers, so manager can work ahead
+    int stackMax = 0; // maximum size of stack, will be set to p or something
+    int stackSize = 0;
+    char ** textStack = NULL;
+
+    char ** sentText = NULL;
+
+    // requests and stuff
+    MPI_Request * send_requests = NULL;
+
+    // for text and end
+    MPI_Request recv_requests[2];
+
+
+    MPI_Init (&argc, &argv);
+
+    MPI_Comm_rank (MPI_COMM_WORLD, &id);
+    MPI_Comm_size (MPI_COMM_WORLD, &p);
+    MPI_Barrier(MPI_COMM_WORLD);
+
+    if(argc < 2) {
+        if(!id)
+            printf ("Command line: %s <text file>\n", argv[0]);
+        MPI_Finalize();
+        exit(1);
+    }
+
+    /* Start the timer */
+    elapsed_time = -MPI_Wtime();
+
     // argument should be the file
-    FILE *file = fopen("Frankenstein.md", "r");
+    // only p0 reads the file
+    if(!id) {
+        file = fopen(argv[1], "r");
 
-    if (file == NULL) {
-        perror("Error opening file");
-        return 1;
-    }
-
-    // Reading lines until the end of the file
-    int read = fread(buffer, sizeof(char), BUFF_MAX - 1, file);
-    while (read != 0) {
-        // null terminate it
-        buffer[read] = '\0';
-        // shorten the buffer if we end in the middle of a word
-        while(IN_WORD(buffer[read - 1])) {
-            buffer[read - 1] = '\0';
-            fseek(file, -1, SEEK_CUR);
-            read --;
-
-            if(read <= 0)
-                return 0;
+        if (file == NULL) {
+            printf("Error opening file.\n");
+            MPI_Abort(MPI_COMM_WORLD, 1);
+            return 1;
         }
-        readSection(buffer, &wordCount, &titleCount, &acronymCount);
+    }
+    // sequential algorithm with one process
+    if(!id && p == 1) {
+        // Reading lines until the end of the file
+        readChars = readSection(buffer, file);
+        while (readChars != 0) {
+            countSection(buffer, &wordCount, &titleCount, &acronymCount);
+            readChars = readSection(buffer, file);
+        }
 
-        //printf("%s", buffer);
-        //printf("|%d|", BUFF_MAX - read);
-        read = fread(buffer, sizeof(char), BUFF_MAX, file);
+        global_wordCount = wordCount;
+        global_titleCount = titleCount;
+        global_acronymCount = acronymCount;
+    }
+    // manager
+    else if(!id) {
+        // set up stack
+        stackMax = p;
+        textStack = malloc(stackMax * sizeof(char *));
+        for(int i = 0; i < stackMax; i ++) {
+            textStack[i] = malloc(BUFF_MAX * sizeof(char));
+        }
+
+        // sent text
+        sentText = malloc(p * sizeof(char *));
+        for(int i = 0; i < p; i ++) {
+            sentText[i] = NULL; // nothing sent yet
+        }
+
+        // requests
+        send_requests = malloc(p * sizeof(MPI_Request));
+        
+        while(true) {
+            int working = 0;
+
+            // add to stack
+            if(readChars != 0 && stackSize < stackMax) {
+                readChars = readSection(textStack[stackSize], file);
+                if(readChars != 0)
+                    stackSize ++;
+            }
+            // send to workers who are free
+            if(stackSize > 0) {
+                for(int i = 1; i < p; i ++) {
+                    if(sentText[i] == NULL && stackSize > 0) {
+                        // pop from stack
+                        stackSize --;
+                        sentText[i] = textStack[stackSize];
+                        MPI_Isend(sentText[i], BUFF_MAX, MPI_CHAR, i, TAG_TEXT, MPI_COMM_WORLD, &send_requests[i]);
+                        // pave over old stack top buffer so we can reuse it
+                        textStack[stackSize] = malloc(BUFF_MAX * sizeof(char));
+                    }
+                }
+            }
+            // test for workers ready to recieve
+            for(int i = 1; i < p; i ++) {
+                if(sentText[i] != NULL) {
+                    int done = 0;
+                    MPI_Test(&send_requests[i], &done, MPI_STATUS_IGNORE);
+                    if(done) {
+                        free(sentText[i]);
+                        sentText[i] = 0;
+
+                        printf("P%d done.\n", i);
+                    }
+                    else {
+                        working ++; // a worker is working
+                    }
+                }
+            }
+
+            // nobody is working, nothing in the stack to send, and nothing left to read
+            // let's finish stuff up
+            if(working == 0 && stackSize == 0 && readChars == 0) {
+                printf("Shutting down shop.\n");
+
+                end = 1;
+                for(int i = 1; i < p; i ++) {
+                    MPI_Send(&end, 1, MPI_INT, i, TAG_END, MPI_COMM_WORLD);
+                }
+
+                printf("END!\n");
+
+                break;
+            }
+        }
+    }
+    // worker
+    else {
+        while(true) {
+            MPI_Irecv(buffer, BUFF_MAX, MPI_CHAR, 0, TAG_TEXT, MPI_COMM_WORLD, &recv_requests[TAG_TEXT]);
+            MPI_Irecv(&end, 1, MPI_INT, 0, TAG_END, MPI_COMM_WORLD, &recv_requests[TAG_END]);
+            int type;
+            MPI_Waitany(2, recv_requests, &type, MPI_STATUS_IGNORE);
+            
+            // break when program is finished
+            if(type == TAG_END && end)
+                break;
+            else if(type == TAG_TEXT) {
+                printf("P%d counting\n", id);
+                countSection(buffer, &wordCount, &titleCount, &acronymCount);
+            }
+        }
+
+        printf("P%d END!\n", id);
     }
 
-    fclose(file);
+    MPI_Reduce (&wordCount, &global_wordCount, 1, MPI_INT, MPI_SUM, 0, MPI_COMM_WORLD);
+    MPI_Reduce (&titleCount, &global_titleCount, 1, MPI_INT, MPI_SUM, 0, MPI_COMM_WORLD);
+    MPI_Reduce (&acronymCount, &global_acronymCount, 1, MPI_INT, MPI_SUM, 0, MPI_COMM_WORLD);
+
+    if(!id)
+        fclose(file);
+    
     float freq = (float) titleCount / wordCount;
-    printf("\nWords: %d\nTitles: %d\nAcronyms: %d\n", wordCount, titleCount, acronymCount);
-    printf("Tile-case word frequency: %f\n", freq);
+
+    /* Stop the timer */
+    elapsed_time += MPI_Wtime();
+
+    /* Print the results */
+    if (!id) {
+        printf("\nWords: %d\nTitles: %d\nAcronyms: %d\n", global_wordCount, global_titleCount, global_acronymCount);
+        printf("Title-case word frequency: %f\n", freq);
+        printf ("T: %10.6f\n", elapsed_time);
+    }
+
+    // cleanup
+    MPI_Finalize();
+
+    if(!id && p > 1) {
+        free(send_requests);
+        free(sentText);
+        for(int i = 0; i < stackMax; i ++) {
+            free(textStack[i]);
+        }
+        free(textStack);
+    }
 
     return 0;
 }
