@@ -313,9 +313,9 @@ int main (int argc, char *argv[]) {
     }
     // worker
     else {
+        MPI_Irecv(&end, 1, MPI_INT, 0, TAG_END, MPI_COMM_WORLD, &end_recv_request);
         while(true) {
             MPI_Irecv(buffer, BUFF_MAX, MPI_CHAR, 0, TAG_TEXT, MPI_COMM_WORLD, &text_recv_request);
-            MPI_Irecv(&end, 1, MPI_INT, 0, TAG_END, MPI_COMM_WORLD, &end_recv_request);
 
             int done = 0;
             int type = -1;
@@ -355,7 +355,7 @@ int main (int argc, char *argv[]) {
     if(!id)
         fclose(file);
     
-    float freq = (float) titleCount / wordCount;
+    float freq = (float) global_titleCount / global_wordCount;
 
     /* Stop the timer */
     elapsed_time += MPI_Wtime();
