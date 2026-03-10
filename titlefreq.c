@@ -166,14 +166,15 @@ int main (int argc, char *argv[]) {
         }
         readSection(buffer, &wordCount, &titleCount, &acronymCount);
 
-        printf("%s", buffer);
-        printf("|%d|", BUFF_MAX - read);
+        //printf("%s", buffer);
+        //printf("|%d|", BUFF_MAX - read);
         read = fread(buffer, sizeof(char), BUFF_MAX, file);
     }
 
     fclose(file);
-
+    float freq = (float) titleCount / wordCount;
     printf("\nWords: %d\nTitles: %d\nAcronyms: %d\n", wordCount, titleCount, acronymCount);
+    printf("Tile-case word frequency: %f\n", freq);
 
     return 0;
 }
