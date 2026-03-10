@@ -10,9 +10,9 @@ from consideration. Use a manager-worker architecture.
 /*
 
 BOOKS:
-* Dracula.md
-* Frankenstein.md
-* Hound.md
+* Hound.md          (59501 words)
+* Frankenstein.md   (75208 words)
+* Dracula.md        (161865 words)
 
 These books were obtained from Project Gutenberg,
 downloaded as html files, and converted to markdown files
@@ -54,10 +54,6 @@ A word is an acronym if it contains two capitals in a row (CIA)
 A word like McDonald is not an acronym.
 It contains two capitols, but they are seperated by a lowercase.
 
-If a word does not start with an NOT_IN_WORDuppercase,
-we won't check if it's an acronym.
-We don't care. We only count title cases and total words.
-
 */
 
 #define ALPHANUMERIC(c) ((c >= 'a' && c <= 'z') \
@@ -68,13 +64,13 @@ We don't care. We only count title cases and total words.
 #define START_WORD(c) (ALPHANUMERIC(c))
 // could this character be part of a word?
 #define IN_WORD(c) (ALPHANUMERIC(c) || c == '\'' || c == '.')
-
+// is this character uppercase?
 #define UPPERCASE(c) (c >= 'A' && c <= 'Z')
 
 /*
 
-The manager loads the file, and reads a fixed number of characters N
-every worker gets N characters to check
+The manager loads the file, and reads a fixed number of characters N.
+Every worker gets N characters to check.
 
 */
 
@@ -83,6 +79,7 @@ every worker gets N characters to check
 // manager function, used to get text from a file, into the buffer
 // this buffer will then be sent from the manager to a worker
 int readSection(char * buffer, FILE * file) {
+    // read from file
     int read = fread(buffer, sizeof(char), BUFF_MAX - 1, file);
     if(read == 0)
         return 0;
@@ -106,15 +103,22 @@ int readSection(char * buffer, FILE * file) {
     return read;
 }
 
+// worker function
+// this is the meat of the program, where we actually count words
 void countSection(char * text, int * wordCount, int * titleCount, int * acronymCount) {
 
+    // are we currently in a word?
     bool inWord = false;
+    // did this word start with a capital?
     bool startCap = false;
+    // how many periods in this word (for acronym detection)?
     int periodCount;
-
+    // is this word an acronym?
     bool acronym = false;
 
+    // iteration
     int i = 0;
+    // which letter of this word are we on?
     int letter = 0;
 
     while(i < BUFF_MAX) {
@@ -172,6 +176,8 @@ int main (int argc, char *argv[]) {
     FILE * file = NULL; // file to read
     char buffer[BUFF_MAX]; // worker's buffer
     int readChars = -1; // number of characters read from file
+    
+    // counting is what we do best
     int wordCount = 0;
     int titleCount = 0;
     int acronymCount = 0;
@@ -179,8 +185,6 @@ int main (int argc, char *argv[]) {
     int global_wordCount = 0;
     int global_titleCount = 0;
     int global_acronymCount = 0;
-
-    int end = 0;
 
     // stack for unsent buffers, so manager can work ahead
     int stackMax = 0; // maximum size of stack, will be set to p or something
@@ -233,6 +237,7 @@ int main (int argc, char *argv[]) {
             readChars = readSection(buffer, file);
         }
 
+        // my counts are the only counts
         global_wordCount = wordCount;
         global_titleCount = titleCount;
         global_acronymCount = acronymCount;
@@ -255,6 +260,7 @@ int main (int argc, char *argv[]) {
         // requests
         send_requests = malloc(p * sizeof(MPI_Request));
         
+        // manager main loop
         while(true) {
             int working = 0;
 
@@ -285,8 +291,6 @@ int main (int argc, char *argv[]) {
                     if(done) {
                         free(sentText[i]);
                         sentText[i] = NULL;
-
-                        printf("P%d done.\n", i);
                     }
                     else {
                         working ++; // a worker is working
@@ -297,15 +301,10 @@ int main (int argc, char *argv[]) {
             // nobody is working, nothing in the stack to send, and nothing left to read
             // let's finish stuff up
             if(working == 0 && stackSize == 0 && readChars == 0) {
-                printf("Shutting down shop.\n");
-
-                end = 1;
                 for(int i = 1; i < p; i ++) {
-                    MPI_Send(&end, 1, MPI_INT, i, TAG_END, MPI_COMM_WORLD);
-                    printf("Sent end to P%d.\n", i);
+                    // send "END" message, to let workers know we're closing up shop
+                    MPI_Send(NULL, 0, MPI_INT, i, TAG_END, MPI_COMM_WORLD);
                 }
-
-                printf("END!\n");
 
                 break;
             }
@@ -313,12 +312,16 @@ int main (int argc, char *argv[]) {
     }
     // worker
     else {
-        MPI_Irecv(&end, 1, MPI_INT, 0, TAG_END, MPI_COMM_WORLD, &end_recv_request);
+        // prepare to recieve "END" message
+        MPI_Irecv(NULL, 0, MPI_INT, 0, TAG_END, MPI_COMM_WORLD, &end_recv_request);
+        // worker main loop
         while(true) {
+            // prepare to recieve next block of text
             MPI_Irecv(buffer, BUFF_MAX, MPI_CHAR, 0, TAG_TEXT, MPI_COMM_WORLD, &text_recv_request);
 
             int done = 0;
             int type = -1;
+            // test for either more text or END message
             while(true) {
                 MPI_Test(&text_recv_request, &done, MPI_STATUS_IGNORE);
                 if(done) {
@@ -331,23 +334,19 @@ int main (int argc, char *argv[]) {
                     break;
                 }
             }
-
-            printf("P%d recieved tag %d.\n", id, type);
-            
-            // break when program is finished
-            if(type == TAG_END) {
-                printf("P%d shutting down.\n", id);
-                break;
-            }
-            else if(type == TAG_TEXT) {
-                printf("P%d counting\n", id);
+            // do work, keep counts
+            if(type == TAG_TEXT) {
                 countSection(buffer, &wordCount, &titleCount, &acronymCount);
             }
+            // break when program is finished
+            else if(type == TAG_END) {
+                break;
+            }
         }
-
-        printf("P%d END!\n", id);
     }
-
+    
+    // done managing, done working
+    // get global counts
     MPI_Reduce (&wordCount, &global_wordCount, 1, MPI_INT, MPI_SUM, 0, MPI_COMM_WORLD);
     MPI_Reduce (&titleCount, &global_titleCount, 1, MPI_INT, MPI_SUM, 0, MPI_COMM_WORLD);
     MPI_Reduce (&acronymCount, &global_acronymCount, 1, MPI_INT, MPI_SUM, 0, MPI_COMM_WORLD);
@@ -362,9 +361,9 @@ int main (int argc, char *argv[]) {
 
     /* Print the results */
     if (!id) {
-        printf("\nWords: %d\nTitles: %d\nAcronyms: %d\n", global_wordCount, global_titleCount, global_acronymCount);
-        printf("Title-case word frequency: %f\n", freq);
-        printf ("T: %10.6f\n", elapsed_time);
+        printf("wc:\t\t%8d words\ntc:\t\t%8d title-case words\nac:\t\t%8d acronyms\n", global_wordCount, global_titleCount, global_acronymCount);
+        printf("tc freq:\t%8.2f %% of words are title-case\n", freq * 100);
+        printf ("T:\t\t%8.6f s\n", elapsed_time);
     }
 
     // cleanup
