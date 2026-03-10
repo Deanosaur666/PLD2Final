@@ -1,0 +1,3031 @@
+Dracula
+P: 1
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.030423 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.022882 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.023590 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.012431 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.018930 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.018621 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.008605 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.008901 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.013354 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.010870 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.023769 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.028928 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.028995 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.015373 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.028983 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.023843 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.008508 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.024640 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.010431 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.023736 s
+P: 2
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.008799 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.011425 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.021815 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.008266 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.010353 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.010075 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.007594 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.012202 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.009989 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.008969 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.008654 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.007414 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.015651 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.011028 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.014287 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.009409 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.015110 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.019526 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.019043 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.013665 s
+P: 3
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.003788 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.003509 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.004737 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.007641 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.003767 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.003629 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.003827 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.003566 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.003589 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.003576 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.003842 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.003759 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.004735 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.004761 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.003511 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.003711 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.006431 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.003570 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.003534 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.004391 s
+P: 4
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.007539 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.006131 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.006008 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.002693 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.002726 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.006589 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.005737 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.010104 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.013549 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.008924 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.008370 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.009125 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.003847 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.002721 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.002419 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.002419 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.003563 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.002686 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.002597 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.003917 s
+P: 5
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.007353 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.007174 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.006863 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.003484 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.010608 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.007366 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.013641 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.008420 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.007956 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.022705 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.011216 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.020669 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.026705 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.016457 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.011394 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.004907 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.008590 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.019355 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.006386 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.008594 s
+P: 6
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.008657 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.013489 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.006747 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.029244 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.010690 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.008484 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.009354 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.022685 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.008660 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.004436 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.025028 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.022526 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.010367 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.008920 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.015819 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.003677 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.030208 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.018387 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.020735 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.020265 s
+P: 7
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.005663 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.004554 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.007320 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.010394 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.011544 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.004621 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.020212 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.012984 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.009247 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.014809 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.005991 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.016475 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.008021 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.008448 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.007292 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.012467 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.015487 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.011178 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.019096 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.005636 s
+P: 8
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.015686 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.013847 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.011270 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.018439 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.013051 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.009642 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.006909 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.004541 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.009121 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.011357 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.010423 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.010082 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.008986 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.016582 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.030318 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.018019 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.016071 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.014283 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.011981 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.010916 s
+P: 9
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.007082 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.007500 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.033144 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.019953 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017370 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.015856 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.010448 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.021969 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.012124 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.018958 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.013385 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.016884 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.009252 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017443 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.010095 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.013637 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.009776 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.015964 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.024583 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.009091 s
+P: 10
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017867 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.019856 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.015356 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.020548 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.018534 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.013627 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.016240 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.012502 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.008846 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.010101 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.008362 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.008504 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.015583 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.009016 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.025530 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.012235 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.022324 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.012494 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.013145 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.020599 s
+P: 11
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.020559 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.024237 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.020692 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.011539 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.014791 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.021842 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017194 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.013081 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017996 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.012947 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.013292 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.022179 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.016799 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.022358 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.018979 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.014303 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017932 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.012172 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.008645 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.008551 s
+P: 12
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.015569 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.013785 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.012779 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.018167 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017987 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.019621 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017067 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.018239 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.016258 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.018056 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.013121 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017209 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.021858 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.011548 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.015320 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.012586 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017259 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.018463 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.026309 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.021848 s
+P: 13
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.016501 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017089 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.020853 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.015943 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.025522 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.025785 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017058 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.013279 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.021609 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.013129 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.012320 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.013090 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.013507 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.013524 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.021599 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.012363 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.025492 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.016225 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017976 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.015717 s
+P: 14
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.019595 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.018503 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.013328 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.027035 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.016383 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.018025 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.013036 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.015486 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.039988 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.018979 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.016781 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.021530 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.018365 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.016369 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.015771 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.018883 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.015815 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.027482 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017863 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.012579 s
+P: 15
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.010524 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017373 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.038855 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.026302 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.016148 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.022014 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.019869 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.010426 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017567 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017436 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.025037 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.014841 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.022370 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.019884 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.016969 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.019092 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017513 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.018816 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.016945 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.019967 s
+P: 16
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.021942 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.022361 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.047935 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.032387 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.035833 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.024658 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.021177 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.031525 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.018032 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.018912 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.021990 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.016906 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.021207 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017983 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017485 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017098 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.013542 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.020362 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.021956 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.026921 s
+P: 17
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.022326 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.014169 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.024336 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.031296 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.037790 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.023236 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017780 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.022130 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.025621 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.023157 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.020835 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.021601 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017591 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.022776 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.020218 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.023772 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.013730 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017500 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017559 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.021359 s
+P: 18
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.028390 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017472 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.031169 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.059966 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.020095 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.021112 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.020954 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.026997 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017532 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.019697 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017787 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.021421 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.021819 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.018083 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.019422 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.022046 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.014023 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.020779 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.018099 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.027762 s
+P: 19
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.032875 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.018423 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.024992 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.014768 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.028476 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.018175 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.023176 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.027135 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.014003 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.024790 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.019632 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.025381 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.021789 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.018528 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.023152 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.021954 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.018512 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.024208 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.018315 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.007430 s
+P: 20
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.021394 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.022172 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.025896 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.045282 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.031885 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.035328 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.021794 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.028518 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.022123 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.027088 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.030317 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.022143 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.022970 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.026954 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.021748 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.019311 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.021930 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017834 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.023279 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.022029 s
+P: 21
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.027762 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.036796 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.048621 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.022753 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.025579 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.029468 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.021437 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.022545 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.023530 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.027159 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.022751 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.021929 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.026542 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.024659 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.022100 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.024585 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.023003 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.022710 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.023796 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.025658 s
+P: 22
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.026813 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.098283 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.045189 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.036572 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.027903 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.025770 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.023973 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.033138 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017096 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.028497 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.032603 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.027220 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.033233 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.022394 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.022393 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.033747 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.023282 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.025328 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.022725 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.028347 s
+P: 23
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.037394 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.051119 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.046990 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.017498 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.023962 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.026609 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.038539 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.028361 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.038289 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.026706 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.043239 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.028957 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.026063 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.027531 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.022769 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.025999 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.026241 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.031361 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.027551 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.033478 s
+P: 24
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.034936 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.047561 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.050149 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.038172 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.039135 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.032547 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.023357 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.032040 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.027386 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.031341 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.030341 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.022254 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.032946 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.032898 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.048224 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.035993 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.033194 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.036946 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.024928 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.029456 s
+P: 25
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.037234 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.064524 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.054450 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.033221 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.035255 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.038925 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.018669 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.032666 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.029774 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.038077 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.028870 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.044516 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.035827 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.031470 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.014488 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.035332 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.034524 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.035188 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.038384 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.027917 s
+P: 26
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.025666 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.029116 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.055508 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.025814 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.037353 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.021288 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.028884 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.030556 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.028974 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.033274 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.033384 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.037503 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.040268 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.034035 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.037835 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.035822 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.037558 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.028114 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.032516 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.040124 s
+P: 27
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.035205 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.052217 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.047421 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.034053 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.032157 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.040242 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.037601 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.028698 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.035071 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.045256 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.037960 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.042879 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.037803 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.036935 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.038727 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.031271 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.038118 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.032948 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.033470 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.031541 s
+P: 28
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.028639 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.026182 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.059844 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.042206 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.031122 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.041612 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.053973 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.033561 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.025820 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.028136 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.028794 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.030717 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.042283 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.037496 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.028861 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.033201 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.035510 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.037180 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.032156 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.043558 s
+P: 29
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.036106 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.055167 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.020962 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.023125 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.032205 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.037098 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.026424 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.044609 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.028522 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.035881 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.026300 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.035999 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.036521 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.043195 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.027859 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.035896 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.037162 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.036516 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.032317 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.039204 s
+P: 30
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.044011 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.056192 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.048777 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.038934 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.039002 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.031389 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.042464 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.044060 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.041819 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.036034 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.036958 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.037860 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.043353 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.028384 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.045893 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.038878 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.038603 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.038840 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.032287 s
+wc:		  161865 words
+tc:		   17351 title-case words
+ac:		     233 acronyms
+tc freq:	   10.72 % of words are title-case
+T:		0.038653 s
